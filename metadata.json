@@ -1,0 +1,6 @@
+{
+  "name": "COSMOQ - Automation & AI Agent Template",
+  "description": "COSMOQ is a modern Framer template built for AI startups and enterprises. Launch fast, scale easily, and showcase your AI products, workflows, and services with clarity, style, and impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
